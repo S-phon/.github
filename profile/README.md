@@ -1,7 +1,7 @@
 ## Syphon Team
 
 
-**Here are some ideas to get you started:**
+**About Us**
 
  We make plugins for PMMP and Nukkit
 
